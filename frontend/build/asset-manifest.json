@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cn_web/static/css/main.545b9b5f.css",
+    "main.js": "/cn_web/static/js/main.625c6c75.js",
+    "index.html": "/cn_web/index.html",
+    "main.545b9b5f.css.map": "/cn_web/static/css/main.545b9b5f.css.map",
+    "main.625c6c75.js.map": "/cn_web/static/js/main.625c6c75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.545b9b5f.css",
+    "static/js/main.625c6c75.js"
+  ]
+}
