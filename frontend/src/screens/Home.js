@@ -48,7 +48,7 @@ export default function Home() {
     <div className="join-container">
       <header className="join-header">
         <h1>
-          <i className="fas fa-smile"></i> YTParty
+          <i className="fas fa-smile"></i> Chatter-HUB
         </h1>
       </header>
       <main className="join-main">
