@@ -49,7 +49,7 @@ io.on("connection", (socket) => {
     // Welcome current user
     socket.emit(
       "message",
-      formatMessage(botName, "<i>Welcome to YTParty!</i>")
+      formatMessage(botName, "<i>Welcome to Chatter-HUB!</i>")
     );
 
     // Broadcast when a user connects
