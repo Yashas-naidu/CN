@@ -211,7 +211,7 @@ export default function ChatRoom() {
             {tooltipVisible && <div className="tooltip">Copied!</div>}
           </div>
           <h1>
-            <i className="fas fa-smile"></i> YTParty
+            <i className="fas fa-smile"></i> Chatter-HUB
           </h1>
           <button id="leave-btn" className="btn" onClick={handleLeave}>
             {isAdmin ? "End" : "Leave"} Room
